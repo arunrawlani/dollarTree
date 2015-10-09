@@ -10,4 +10,4 @@ Everyone wants to contribute to the environment, but it is hard to think of a wa
 ####How it works
 You can sign up as an individual or an organization. The intuitive UI makes it really easy to start making contributions. Once plant some trees, your efforts show up on the interactive maps which is shared with all your facebook friends. Moreover, you earn points for every tree planted which can be redeemed by buying products for companies that are promoting a cleaner and greener environment.
 
-License Grant: Licensor hereby grants Licensee a Personal, Non-assignable & non-transferable, Pepetual, Non-commercial, Without the rights to create derivative works, Non-exclusive license, all with accordance with the terms set forth and other legal 
+<h6> License Grant: Licensor hereby grants Licensee a Personal, Non-assignable & non-transferable, Pepetual, Non-commercial, Without the rights to create derivative works, Non-exclusive license, all with accordance with the terms set forth and other legal services. </h6>
